@@ -62,7 +62,10 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+  
+remote_theme: minimal-mistakes-jekyll
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
