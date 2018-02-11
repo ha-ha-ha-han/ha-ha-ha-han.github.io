@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-## [pdf version](/assets/files/HanPengCV_201802.pdf) ##
+[pdf version CV](/assets/files/HanPengCV.pdf)
