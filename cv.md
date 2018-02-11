@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-# Coming soon... CV is still being built... #
+## [pdf version](/assets/files/HanPengCV_201802.pdf) ##
