@@ -54,18 +54,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ha-ha-ha-han.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
   
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: minimal-mistakes-jekyll
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
