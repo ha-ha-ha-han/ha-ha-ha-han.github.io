@@ -24,7 +24,8 @@ analytics:
 author:
   name   : "Han Peng"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Han Peng is a DPhil student in Oxford physics department."
+  bio    : "I am a DPhil student in Physics Department, University of Oxford. <br>
+My research interest lies in the electronic structure of functional materials such as graphene based heterostructures.  Another topic I am excited about is to apply advanced data analysis methods to see through the voluminous modern scientific data. "
   email  : "penghan1992@gmail.com"
   uri    : "https://ha-ha-ha-han.github.io/"
   home   : # null (default), "absolute or relative url to link to author home"

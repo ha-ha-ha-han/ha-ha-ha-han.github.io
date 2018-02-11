@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Welcome to Han Peng's homepage!
+author_profile: true
 ---
-<img src="/assets/images/bio-photo.jpg" alt="Profile image" style="width: 200px" align="middle"/>
-<br>Hello! <br>
-I am a DPhil student in Physics Department, University of Oxford. <br>
-My research interest lies in electronic structure of functional materials (such as graphene...).  Another topic I am excited about is to apply advanced data analysis methods to see through the voluminous modern scientific data. 
+
+## What's going on? ##
+- I am now working on using convolutional neural network to enhance ARPES data features. Using CNN in scientific data can be tricky. The question is not only how well it works, but also **how** it works. Update coming soon...
+- [Prof Kenneth Harris](http://www.ucl.ac.uk/cortexlab) led me to the fantastic field of neuroscience in the summer of 2017, when I worked with some beautiful neuronal image data. The open question was that could we locate a particular ex-vivo microscopic 2D image slice in the in-vivo 3D two-photon volume data? Check out [my answer](/projects/neuro/) at the Neuromics project annual retreat 2017 (and the [GitHub page](https://github.com/ha-ha-ha-han/NeuromicsCellDetection)). 
