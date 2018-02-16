@@ -7,5 +7,4 @@ sidebar:
 ---
 ## Neuronal image registration ##
 [READ MORE...](/projects/neuro)
-## Convolutional neural network in ARPES data analysis ##
-[READ MORE...](/projects/cnn)
+
