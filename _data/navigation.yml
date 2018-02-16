@@ -16,5 +16,3 @@ projects:
     children:
       - title: "Neuronal image registration"
         url: /projects/neuro/
-      - title: "Convolutional neural network in ARPES data analysis"
-        url: /projects/cnn/
