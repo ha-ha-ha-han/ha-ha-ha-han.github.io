@@ -61,11 +61,10 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
-  - jekyll-remote_theme
   - jekyll-seo-tag
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise" "default"
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 
 analytics:
   provider: "google-universal"
