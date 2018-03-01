@@ -14,5 +14,9 @@ projects:
   - title: "PROJECTS"
     url: /projects/
     children:
+      - title: "Convolutional neural network in ARPES data analysis"
+          url: /projects/cnn/
       - title: "Neuronal image registration"
         url: /projects/neuro/
+      - title: "Twisted few-layer graphene"
+        url: /projects/graphene/

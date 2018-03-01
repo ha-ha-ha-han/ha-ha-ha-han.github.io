@@ -5,6 +5,9 @@ permalink: /projects/
 sidebar:
   nav: "projects"
 ---
+## Convolutional neural network in ARPES data analysis ##
+COMING SOON...
 ## Neuronal image registration ##
-[READ MORE...](/projects/neuro)
-
+COMING SOON...
+## Twisted few-layer graphene ##
+[READ MORE...](/projects/graphene)
