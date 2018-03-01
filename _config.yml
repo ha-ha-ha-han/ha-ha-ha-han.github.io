@@ -50,9 +50,8 @@ defaults:
       layout: single
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Han Peng is a DPhil student in Physics Department, Oxford. 
+ His research interest is in electronic structures of quentum materials and developing novel data analysis methods in scientific data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ha-ha-ha-han.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -62,7 +61,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise" "default"
   
 theme: minimal-mistakes-jekyll
