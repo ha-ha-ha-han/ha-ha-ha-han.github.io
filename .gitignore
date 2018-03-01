@@ -1,6 +1,3 @@
 _site
 .sass-cache
 .jekyll-metadata
-/_config.yml
-/_config.yml.remove_version
-_config.yml
