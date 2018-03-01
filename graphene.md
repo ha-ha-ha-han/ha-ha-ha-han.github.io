@@ -27,6 +27,8 @@ Substrate is an important factor to consider when making any thin film device. O
 
 This phenomenon can be quantitatively described by a multilayer capacitor model (Figures c, d and e). The electric potential between the copper substrate and the graphene is resulting from an effective chemical potential W and an effective interlayer distance d. With these two parameters to be fitted, our model explains the experiment data very well (Figure f).
 
+This model is discussed in detail in the [supplementary materials of DOI: 10.1002/adma.201606741](http://binarystore.wiley.com/store/10.1002/adma.201606741/asset/supinfo/adma201606741-sup-0001-S1.pdf?v=1&s=4bb308243190fb83ff305e593064d8cbf20b5627).
+
 ### Evolution of the band structure of twisted bilayer and more ###
 ![Fermi level evolution](/assets/images/graphene/Figure2.jpg)
 One of the driving parameters in the electronic structure in twisted bilayer graphene is the twist angle. As the angle changes between the two layers, the electronic structure will rotate accordingly. It turns out the rotational mismatch weakens the interaction of electrons of the two different layers. This causes the electronic structure of twisted bilayer graphene remain similar to that of a single layer. However, in the intersection point of the two bands from each layer, a gap is opened due to interlayer hybridization, resulting to a special structure called van Hove Singularity (vHS). The energy level of the vHS changes with the twist angle and can be predicted by simply considering the intersection position of two rotated single-layer graphene bands (Figure c).
