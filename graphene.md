@@ -10,24 +10,22 @@ sidebar:
 ![Twisted bilayer and trilayer graphene](/assets/images/graphene/HomepageFigure.jpg)
 
 ### Microscopic Lego and Micro-ARPES ###
-Stacking thin films together is just like playing 'microscopic Lego'. Professor Andre Geim even received the 2010 Nobel Prize in Physics for finding the first building block: graphene. Ever since then, there have been more atomically thin materials coming out, such as silicene, germanene, boron nitride, etc. The interplay among these thin films can result in very different electronic properties. The different combination possibility and stacking order provide a large parameter space to search (and to write papers about).
+Stacking thin films together is just like playing 'microscopic Lego'. The 2010 Nobel Prize in Physics is for finding the first building block: graphene. Ever since then, there have been more atomically thin materials coming out, such as silicene, germanene, boron nitride, etc. The interplay among these thin films can result in very different electronic properties. The different combination possibility and the stacking order provide a large parameter space to search (and to write papers about).
 
-To make the electronic application with stacking thin film materials, one must answer the question: how does the electronic structure change in different stacking parameters? To answer this question, one may use [Angular Resolved Photo-Emission Spectroscopy (ARPES)](http://www.arpes.org.uk/Research_ARPES.html). However, the traditional ARPES use a millimeter-sized light spot to excite the electrons, which does not suit a typical several-micrometer-sized flake. The recent advances in ARPES with micrometer-resolution (micro-ARPES) provides a wonderful tool to solve this problem.
+To make the electronic application with stacking thin film materials, one must answer the question: how does the electronic structure change in different stacking parameters? To answer this question, one may use [Angular Resolved Photo-Emission Spectroscopy (ARPES)](http://www.arpes.org.uk/Research_ARPES.html) to visualize the energy band directly. However, the traditional ARPES use a millimeter-sized light spot to excite the electrons, which does not suit a typical several-micrometer-sized flake. The recent advances in ARPES with micrometer-resolution (micro-ARPES) provides a wonderful tool to solve this problem.
 
 My work using micro-ARPES to study the twisted few layer graphene includes
 - the Fermi level evolution with layer numbers in multilayer graphene on a substrate
 - the electronic structure evolution with twist angle in twisted bilayer graphene
 - the electronic structure of twisted trilayer graphene.
 
-All the results are concluded in the publication [DOI: 10.1002/adma.201606741](http://onlinelibrary.wiley.com/doi/10.1002/adma.201606741/full).
+The results are concluded in our recent publication [DOI: 10.1002/adma.201606741](http://onlinelibrary.wiley.com/doi/10.1002/adma.201606741/full).
 
 ### Modelling the Fermi level in a multilayer system ###
 ![Fermi level evolution](/assets/images/graphene/Figure1.jpg)
-Substrate is an important factor to consider when making any thin film device. One thing about the metallic substrates is that they provide electrons and effectively 'dope' your thin films. Intuitively, the more number of layers cover on a substrate, the weaker this doping effect will be, since the underlying layers act as a shield. This intuition is in accordance with our observation shown above (Figures a and b). The Fermi level rises with the number of layers and reach nearly neutral position when the number goes to 5.
+Substrate is an important factor to consider when making any thin film device. One important feature about the metallic substrates is that they provide electrons and effectively 'dope' the thin films. Intuitively, the more number of layers covering on a substrate, the weaker this doping effect will be, since the underlying layers act as a shield. This intuition is in accordance with our observation shown above (Figures a and b). The Fermi level rises with the number of layers and reaches nearly neutral position when the number goes to five.
 
-This phenomenon can be quantitatively described by a multilayer capacitor model (Figures c, d and e). The electric potential between the copper substrate and the graphene is resulting from an effective chemical potential W and an effective interlayer distance d. With these two parameters to be fitted, our model explains the experiment data very well (Figure f).
-
-This model is discussed in detail in the [supplementary materials of DOI: 10.1002/adma.201606741](http://binarystore.wiley.com/store/10.1002/adma.201606741/asset/supinfo/adma201606741-sup-0001-S1.pdf?v=1&s=4bb308243190fb83ff305e593064d8cbf20b5627).
+To quantitatively explain this layer-dependent doping phenomenon, we propose a multilayer capacitor model (Figures c, d and e). The effective chemical potential causes an electric potential difference between the copper substrate and the graphene. This potential difference is then further tuned by an effective interlayer distance. With these two parameters to be fitted, our model explains the experiment data very well (Figure f). This model is discussed in full detail in the [supplementary materials of DOI: 10.1002/adma.201606741](http://binarystore.wiley.com/store/10.1002/adma.201606741/asset/supinfo/adma201606741-sup-0001-S1.pdf?v=1&s=4bb308243190fb83ff305e593064d8cbf20b5627).
 
 ### Evolution of the band structure of twisted bilayer and more ###
 ![Fermi level evolution](/assets/images/graphene/Figure2.jpg)
