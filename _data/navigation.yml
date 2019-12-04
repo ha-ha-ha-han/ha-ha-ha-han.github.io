@@ -14,6 +14,8 @@ projects:
   - title: "PROJECTS"
     url: /projects/
     children:
+      - title: "Accurate brain age prediction with lightweight neural networks"
+        url: /projects/brain_age/
       - title: "Convolutional neural network in ARPES data analysis"
         url: /projects/cnn/
       - title: "Neuronal image registration"
