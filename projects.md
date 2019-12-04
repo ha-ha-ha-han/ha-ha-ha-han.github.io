@@ -5,6 +5,8 @@ permalink: /projects/
 sidebar:
   nav: "projects"
 ---
+## Accurate brain age prediction with lightweight neural networks ##
+[Read More...](/projects/brain_age)
 ## Convolutional neural network in ARPES data analysis ##
 COMING SOON...
 ## Neuronal image registration ##
