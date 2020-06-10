@@ -4,7 +4,7 @@ title: Bio
 permalink: /cv/
 ---
 
-![Me](/assets/images/bio-photo2.jpg =300x)
+![Me](/assets/images/bio-photo2.jpg){:height="300px" width="300px"}
 
 I am postdoctoral researcher working on deep learning in neuroimaging in WIN-FMRIB and VGG group, University of Oxford, with [Prof Stephen M. Smith](https://www.ndcn.ox.ac.uk/team/stephen-smith) and [Prof Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/). I also briefly worked in Donders Institute, Radboud University, Netherlands with [Prof Christian Beckmann](https://www.ru.nl/english/people/beckmann-c/) during the postdoc time.
 
