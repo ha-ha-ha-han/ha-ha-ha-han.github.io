@@ -17,7 +17,7 @@ Welcome! I am postdoc in the University of Oxford jointly working in the compute
 - *Jun, 2019* **[World leading in brain age prediction competetion](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain)!** We won [PAC 2019](https://web.archive.org/web/20200214101600/https:/www.photon-ai.com/pac2019) brain age prediction challenge and are keeping the world record in brain age prediction in the UK Biobank dataset! 
   - (Update in Dec, 2020) The publication is out in [Medical Image Analysis](https://doi.org/10.1016/j.media.2020.101871) and the code and the pretrained weights from UK Biobank are released in the [GitHub repository](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain). A preprint dedicated for the technical aspects for PAC 2019 is in [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.10.376970v1).
 
-- *Jan, 2019* Moving to the Neterlands! Working as a postdoc Donders Institute in the Netherlands in collaboration with [Prof Christian Beckmann](https://www.ru.nl/english/people/beckmann-c/).
+- *Jan, 2019* Moving to the Netherlands! Working as a postdoc Donders Institute in the Netherlands in collaboration with [Prof Christian Beckmann](https://www.ru.nl/english/people/beckmann-c/).
 
 - *Aug, 2019* Received my DPhil in Condensed Matter Physics. Thesis: [Spatial resolved electronic structure of low dimensional materials and data analysis](https://ora.ox.ac.uk/objects/uuid:2f3503eb-93bf-48d6-b6fb-13409b925748).
 
