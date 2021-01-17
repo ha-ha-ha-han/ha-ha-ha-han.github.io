@@ -4,9 +4,19 @@ title: Welcome to Han Peng's homepage!
 author_profile: true
 ---
 
-## What's going on? ##
-- **[State-of-the-art performance for brain age prediction](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain)!** We won [PAC 2019](https://www.photon-ai.com/pac2019#results) brain age prediction challenge and are keeping the world record in brain age prediction in the UK Biobank dataset! The challenge consists of two goals: 1) Predict age from MRI brain images as accurate as posisble, and 2) Achieve accurate prediction results while keeping the age delta unbiased from age. We lead on both parts! Checkout the manuscript in [Medical Image Analysis](https://doi.org/10.1016/j.media.2020.101871) and the [GitHub repository](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain). 
-- **Deep learning with medical imaging data.** I am now working on UK Biobank data to find patterns of disease and aging in the population. This is a postdoctoral project with [Prof Steve Smith](https://www.ndcn.ox.ac.uk/team/stephen-smith) from FMRIB and [Prof Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/) from VGG.
-- **[Neural network in spectrum image](https://aip.scitation.org/doi/10.1063/1.5132586).** In physics experiment data analysis, labels are rare or hard to get. But don't worry, we can use the physics to generate the label and then generate it to the real experiment data. Checkout our paper in [SRCNN for spectrum experiment data](https://aip.scitation.org/doi/10.1063/1.5132586). 
-- **[Neuron image registration](/projects/neuro/).**  I worked on some beautiful neuronal image data with [Prof Kenneth Harris](http://www.ucl.ac.uk/cortexlab), who led me into the fantastic field of neuroscience. The goal in this project is to register an ex-vivo microscopic 2D image slice in the in-vivo 3D two-photon volume data so that we can link the information from different experiment methods. The data is large and can be noisy. Yet we find a method to register the different data sets with good accuracy and fast speed. Check out the [GitHub site](https://github.com/ha-ha-ha-han/NeuromicsCellDetection) and the project page. [Read more ...](/projects/neuro/)
-- **[Graphene with a twist](/projects/graphene/).** Stacking 2D materials together is just like playing microscopic Lego. In the bilayer graphene scenario, the twist angle between the two layers is the driving parameter for the photonic device application and photochemical reactivity ([Yin et al. 2016](https://www.nature.com/articles/ncomms10699) and [Liao et al. 2015](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02240)). [Peng et al. 2017](http://onlinelibrary.wiley.com/doi/10.1002/adma.201606741/full) explains the underlying mechanism by using photoemission spectroscopy to visualize the electronic band structure's evolution with the twist angle. I will give a talk in [APS March meeting 2018](http://meetings.aps.org/Meeting/MAR18/Session/C18.7). [Read more...](/projects/graphene/)
+## about
+Welcome! I am postdoc in the University of Oxford jointly working in the computer vision lab: Visual Geometry Group and the brain imaging analysis lab: WIN-FMRIB. My research interest is developing and applying AI techniques for pattern discovering in large scientific/medical data.
+## news ##
+
+- Oct, 2020 The brain age paper for Simple Fully ConvNet (SFCN) is published in [Medical Image Analysis](https://doi.org/10.1016/j.media.2020.101871)
+
+- Feb, 2020 ConvNet can extract intrinsic properties from noisy physical experiments! One paper published in [Review of Scientific Instruments](https://aip.scitation.org/doi/full/10.1063/1.5132586)
+
+- Nov, 2019 Back to Oxford in VGG and WIN-FMRIB.
+
+- Jun, 2019 **[World leading in brain age prediction competetion](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain)!** We won [PAC 2019](https://web.archive.org/web/20200214101600/https:/www.photon-ai.com/pac2019) brain age prediction challenge and are keeping the world record in brain age prediction in the UK Biobank dataset! 
+  - (Update in Dec, 2020) The publication is out in [Medical Image Analysis](https://doi.org/10.1016/j.media.2020.101871) and the code and the pretrained weights from UK Biobank are released in the [GitHub repository](https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain). A preprint dedicated for the technical aspects for PAC 2019 is in [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.10.376970v1).
+
+- Jan, 2019 Starting a short-term postdoc in Donders Institute in the Netherlands in collaboration with [Prof Christian Beckmann](https://www.ru.nl/english/people/beckmann-c/).
+
+- Jul, 2018 **Deep learning with large-scale medical imaging data.** I am working on the UK Biobank data to find disease and ageing patterns in the population. This is a postdoctoral project with [Prof Steve Smith](https://www.ndcn.ox.ac.uk/team/stephen-smith) in the MR imaging analysis group in WIN-FMRIB and [Prof Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/) in the computer vision lab VGG.
