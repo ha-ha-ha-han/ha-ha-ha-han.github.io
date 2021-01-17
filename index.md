@@ -19,6 +19,6 @@ Welcome! I am postdoc in the University of Oxford jointly working in the compute
 
 - *Jan, 2019* Moving to the Netherlands! Working as a postdoc Donders Institute in the Netherlands in collaboration with [Prof Christian Beckmann](https://www.ru.nl/english/people/beckmann-c/).
 
-- *Aug, 2019* Received my DPhil in Condensed Matter Physics. Thesis: [Spatial resolved electronic structure of low dimensional materials and data analysis](https://ora.ox.ac.uk/objects/uuid:2f3503eb-93bf-48d6-b6fb-13409b925748).
+- *Aug, 2018* Received my DPhil in Condensed Matter Physics. Thesis: [Spatial resolved electronic structure of low dimensional materials and data analysis](https://ora.ox.ac.uk/objects/uuid:2f3503eb-93bf-48d6-b6fb-13409b925748).
 
 - *Jul, 2018* **Deep learning with large-scale medical imaging data.** I am working on the UK Biobank data to find disease and ageing patterns in the population. This is a postdoctoral project with [Prof Steve Smith](https://www.ndcn.ox.ac.uk/team/stephen-smith) in the MR imaging analysis group in WIN-FMRIB and [Prof Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/) in the computer vision lab VGG.
