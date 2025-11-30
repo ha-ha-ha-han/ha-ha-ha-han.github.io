@@ -24,7 +24,7 @@ analytics:
 author:
   name: "Han Peng"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Staff Research Scientist @ Ant Group"
+  bio: "Staff Research Scientist<br>@ Ant Group"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"

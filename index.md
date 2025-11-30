@@ -4,7 +4,7 @@ title: "Han Peng"
 author_profile: true
 ---
 
-I am a Staff Research Scientist and Tech Lead at **Ant Group**, where I lead a growing team on **multimodal foundation models**. My current focus is on post-training (RL/RLHF) and Agent technologies.
+I am a Staff Research Scientist at **Ant Group**, where I lead a growing team on **multimodal foundation models**, with an emphasis on post-training (RL/RLHF) and Agent technologies.
 
 Our recent work includes [Ming-Flash-Omni](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview), a 100B parameter model that can read, hear, speak, and see.
 
@@ -12,8 +12,9 @@ Previously, I was a Machine Learning Engineer at **Google**. My academic journey
 
 ---
 
-### Join Us
-My team is expanding. We are looking for passionate Research Interns and Full-time Researchers to tackle fundamental challenges in AGI. If you're excited by our work, please send your CV to: **penghan (dot) peng (at) antgroup (dot) com**.
+🚀 We're Hiring!
+
+Our team is expanding. We are looking for passionate **Research Interns** and **Full-time Researchers** to tackle fundamental challenges in AGI. This is an opportunity to work on fundamental research and see your work deployed at scale. If you're excited by our work, please send your CV to: **penghan (dot) peng (at) antgroup (dot) com**.
 
 ---
 
