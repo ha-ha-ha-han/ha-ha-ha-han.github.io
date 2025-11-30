@@ -1,24 +1,24 @@
-main:
-  - title: "HOME"
-    url: /
-  - title: "BIO"
-    url: /cv/
-  - title: "PROJECTS"
-    url: /projects/
-  - title: "PUBLICATIONS"
-    url: https://scholar.google.co.uk/citations?user=kcP6DbAAAAAJ&hl=en
+# main:
+#   - title: "HOME"
+#     url: /
+#   - title: "BIO"
+#     url: /cv/
+#   - title: "PROJECTS"
+#     url: /projects/
+#   - title: "PUBLICATIONS"
+#     url: https://scholar.google.co.uk/citations?user=kcP6DbAAAAAJ&hl=en
 
 
 
-projects:
-  - title: "PROJECTS"
-    url: /projects/
-    children:
-      - title: "Accurate brain age prediction with lightweight neural networks"
-        url: /projects/brain_age/
-      - title: "Convolutional neural network in ARPES data analysis"
-        url: /projects/cnn/
-      - title: "Neuronal image registration"
-        url: /projects/neuro/
-      - title: "Twisted few-layer graphene"
-        url: /projects/graphene/
+# projects:
+#   - title: "PROJECTS"
+#     url: /projects/
+#     children:
+#       - title: "Accurate brain age prediction with lightweight neural networks"
+#         url: /projects/brain_age/
+#       - title: "Convolutional neural network in ARPES data analysis"
+#         url: /projects/cnn/
+#       - title: "Neuronal image registration"
+#         url: /projects/neuro/
+#       - title: "Twisted few-layer graphene"
+#         url: /projects/graphene/
