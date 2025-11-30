@@ -24,9 +24,7 @@ analytics:
 author:
   name   : "Han Peng"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a postdoctoral researcher from VGG and FMRIB, University of Oxford. <br>
-My research interest lies in applying advanced data analysis methods to discover the underlying patterns from the voluminous modern scientific data. "
-  email  : "penghan1992@gmail.com"
+  bio    : "Staff Research Scientist @ Ant Group"
   uri    : "https://ha-ha-ha-han.github.io/"
   home   : # null (default), "absolute or relative url to link to author home"
 defaults:
