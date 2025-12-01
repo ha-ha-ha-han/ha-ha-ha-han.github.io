@@ -4,7 +4,7 @@ title: "Han Peng"
 author_profile: true
 ---
 
-I am a Staff Research Scientist at **Ant Group**, where I lead a growing team on **multimodal foundation models**, with an emphasis on post-training, reasoning and agent technologies.
+I am a Staff Research Scientist at **Ant Group**, where I am growing a team on post-training, reasoning, and agent capabilities for multimodal foundation models.
 
 Our recent work includes **[Ming-Flash-Omni](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview)**, a 100B parameter **Open-Source** model that can read, hear, speak, and see.
 
