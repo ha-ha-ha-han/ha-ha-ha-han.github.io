@@ -6,7 +6,7 @@ author_profile: true
 
 I am a Staff Research Scientist at **Ant Group**, where I lead a growing team on **multimodal foundation models**, with an emphasis on post-training (RL/RLHF) and Agent technologies.
 
-Our recent work includes [Ming-Flash-Omni](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview), a 100B parameter Open-Source model that can read, hear, speak, and see.
+Our recent work includes [Ming-Flash-Omni](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview), a 100B parameter **Open-Source** model that can read, hear, speak, and see.
 
 Previously, I was a Machine Learning Engineer at **Google**. My academic journey at the **University of Oxford** includes a PhD in Physics and postdoctoral research at the renowned **Visual Geometry Group (VGG)** and **Centre for Integrative Neuroimaging**, where my work on AI for medical imaging set a world record.
 
