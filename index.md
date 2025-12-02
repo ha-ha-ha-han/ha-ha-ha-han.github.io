@@ -14,7 +14,7 @@ Previously, I was a Machine Learning Engineer at **Google**. My academic foundat
 
 🚀 We're Hiring!
 
-Our team is expanding. We are looking for passionate **Research Interns** and **Full-time Researchers** to tackle fundamental challenges in AGI. This is an opportunity to work on fundamental research and see your work deployed at scale. If you're excited by our work, please send your CV to: **penghan (dot) peng (at) antgroup (dot) com**.
+Our team is expanding. We are looking for passionate **Research Interns** and **Full-time Researchers** to tackle fundamental challenges in AGI. This is an opportunity to work on frontier research and see your work deployed at scale. If you're excited by our work, please send your CV to: **penghan (dot) peng (at) antgroup (dot) com**.
 
 ---
 
